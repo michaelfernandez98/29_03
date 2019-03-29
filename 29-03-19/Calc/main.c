@@ -15,11 +15,11 @@ int main()
     int multiplicacion;
     int factorial;
 
-    while(seguir=='s')
-    {
-        A=conseguirNumero();
-        printf("El numero ingresado es: %.f\n",A);
-    }
+    do{
+        menu();
+        system("pause");
+
+    }while(seguir=='s');
 
     return 0;
 }

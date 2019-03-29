@@ -1,3 +1,10 @@
 # depslib dependency file v1.0
 1553865120 source:d:\michael\29-03-19\calc\biblioteca.c
 
+1553872718 source:d:\michael\29-03-19\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1553872386 d:\michael\29-03-19\calc\biblioteca.h
+
